@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>glsl/f.glsl</file>
+        <file>glsl/v.glsl</file>
+        <file>img/2.jpg</file>
+    </qresource>
+</RCC>
